@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(scatterplot3d)
+import(fields)
+importFrom("graphics", "plot")
+export(SpectralMap)
